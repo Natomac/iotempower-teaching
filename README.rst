@@ -6,14 +6,13 @@ Teaching Internet of Things (IoT) the IoTempower Way
 #. `Course Elements <#course-elements>`__
 #. `Learning Tools <#learning-tools>`__
 #. `References and Resources <#references-and-resources>`__
-
+s
 
 Welcome to teaching and learning the IoTempower way. 
 The IoTempower framework has been developed to support educators and students alike in exploring the world
 of connected devices, systems, and the challenges they address. Here you find all our teaching 
 material and learning resources in a central point. 
 
-Our course, “The Internet of Things,” is an engaging, hands-on course that bridges the virtual and physical to impact positive change. The course caters to different learning needs with flexible formats: Express (4h) Workshop, Intensive (16h) Workshop, and Full Course (60h guided, 20-40h unsupervised). Starting from the 16h version, we cover core topics of storytelling, basic electronics, IoT architecture, machine-to-machine communication, and exploring open-source IoT integration using Node-RED, all within our fully open-source and in-house developed IoT teaching framework - `IoTempower <https://github.com/iotempire/iotempower>`__.
 Our course, “The Internet of Things,” is an engaging, hands-on course that bridges the virtual and physical to impact positive change. The course caters to different learning needs with flexible formats: Express (4h) Workshop, Intensive (16h) Workshop, and Full Course (60h guided, 20-40h unsupervised). Starting from the 16h version, we cover core topics of storytelling, basic electronics, IoT architecture, machine-to-machine communication, and exploring open-source IoT integration using Node-RED, all within our fully open-source and in-house developed IoT teaching framework - `IoTempower <https://github.com/iotempire/iotempower>`__.
 
 We advocate that challenge-based education (CBE) allows students to work with the technology themselves and apply it to real-world problems. Our students have a chance to truly understand IoT’s strengths and weaknesses and its potential to help us deal with today’s challenges in creative, innovative, collaborative, and communicative ways. We foster an inclusive course mindset, promoting storytelling, exploration, and working with failure as part of the learning process. We emphasize collaborative team and group work and encourage critical reflection, with no differentiation between labs and lectures. From the start, students experiment with hardware, programming, and networking aspects of IoT, bridging the gap between the virtual and physical worlds through prototyping.
