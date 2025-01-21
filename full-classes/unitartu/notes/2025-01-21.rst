@@ -38,9 +38,13 @@
 
 First class:
 - Hello, welcome - maybe agenda?
+
 - What is IoT
+
   - ask question
+
   - IoTempower intro video
+
   - demo show case
     - environment sensor demo (temp, humidity, gas)
     - led panels
@@ -69,5 +73,3 @@ Fourth class:
 
 Crazy ideas:
   - packaged Android app for IoTempower
-
-    - 
