@@ -1,3 +1,13 @@
+TODO (action items): 
+- [ ] Friday 24th Jan 2025: collect laptops from ATI Comp (Uli, Renato, Mbz)
+- [ ] Simplify project modules
+  - [ ] Update naming convention (Renato)
+  - [ ] Update modules (Renato, Uli, Mbz)
+  - [ ] Update class plan (Renato, Uli, Mbz)
+- [ ] Import tasks from previous classes (task sheets; Renato)
+- [ ] Fix HDMI issue .-. (Mbz)
+
+
 Just some intial notes.
 
 Folder for each module with videos, tasksheets, demos
