@@ -1,0 +1,73 @@
+- Matevz, Ulno, Fedir (welcome new team member!), Renato
+
+- Pick up computers at Aticomp on Friday 24
+
+- Matevz suggests using Snipe-IT + lable machine, ulno and Matevz are still evaluating
+
+- Fedir stresses github importance, Matevz and Fedir want to make list of pointers
+
+- Discord, prep new things, add Fedir to instructors - Renato/Ulno - drive engagement on discord
+
+- Ulno/Renato used VSCode for shared class devolopent in this git repo
+
+- Ulno/Renato: "If we cannot decide use K.I.S.S. - keep it as simple as possible" 
+
+- All teaching stuff on git
+
+- Matevz integrates discord
+
+- Grow IoTempower community!
+
+- Strengthen portfolio idea on git - TODO: add and polish sample portfolio (German and English version? @Ruben)
+
+- Tasks vs Contracts? Need to be simpler and easier to understand - add more personal agency to bind specific 
+  tasks to students, how to add projects earlier?
+
+- What about project portfolio? (given early)
+
+- Demo showcase on day one, Masterclass 
+
+- Demo showcase
+    - Demobox
+
+- more 3d printing
+  - USB power box
+
+- breadboarding individually!
+
+
+First class:
+- Hello, welcome - maybe agenda?
+- What is IoT
+  - ask question
+  - IoTempower intro video
+  - demo show case
+    - environment sensor demo (temp, humidity, gas)
+    - led panels
+    - phone demo
+    - demobox - access control + led's - maybe add PIR (better distance sensor) - replace pi with phone or tablet
+  - more iot introduction
+  - talk about modern teaching, modules, portfolio, git (personal repo, team repo/s)
+  - IoT Intro Masterclass (node-red)
+  - Task/hw: describe and results, reflection!
+
+Second class:
+  - module 1: Hardware
+    - hardware, breadboarding
+    - show what's available - the IoT cart
+  - blink (as challenge)
+
+Third class:
+  - module 2: Infrastructure/Systems
+  - project portfolio?
+  - infrastructure setup
+  - small mqtt and node-red exercises, mqtt client on phones
+  - network blink and button (with web requests)
+
+Fourth class:
+  - module 3: Integration and simulation
+
+Crazy ideas:
+  - packaged Android app for IoTempower
+
+    - 
