@@ -6,6 +6,7 @@ TODO (action items):
   - [ ] Update class plan (Renato, Uli, Mbz)
 - [ ] Import tasks from previous classes (task sheets; Renato)
 - [ ] Fix HDMI issue .-. (Mbz)
+- [ ] Project Repository (HINT:  include Forest Projects, supply chain management, and home automation; Renato, Uli, Mbz) 
 
 
 Just some intial notes.
