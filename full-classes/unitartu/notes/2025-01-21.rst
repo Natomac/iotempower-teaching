@@ -37,6 +37,7 @@
 
 
 First class:
+
 - Hello, welcome - maybe agenda?
 
 - What is IoT
@@ -46,29 +47,50 @@ First class:
   - IoTempower intro video
 
   - demo show case
+
     - environment sensor demo (temp, humidity, gas)
+
     - led panels
+
     - phone demo
+
     - demobox - access control + led's - maybe add PIR (better distance sensor) - replace pi with phone or tablet
+
   - more iot introduction
+
   - talk about modern teaching, modules, portfolio, git (personal repo, team repo/s)
+
   - IoT Intro Masterclass (node-red)
+
   - Task/hw: describe and results, reflection!
 
+
 Second class:
+
   - module 1: Hardware
+
     - hardware, breadboarding
+
     - show what's available - the IoT cart
+
   - blink (as challenge)
 
+
 Third class:
+
   - module 2: Infrastructure/Systems
+
   - project portfolio?
+
   - infrastructure setup
+
   - small mqtt and node-red exercises, mqtt client on phones
+
   - network blink and button (with web requests)
 
+
 Fourth class:
+
   - module 3: Integration and simulation
 
 Crazy ideas:
