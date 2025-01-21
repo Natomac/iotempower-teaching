@@ -1,16 +1,17 @@
 TODO (action items)
 ===================
 
-- [ ] **Friday 24th Jan 2025:** Collect laptops from ATI Comp (Uli, Renato, Mbz)
-- [ ] Simplify project modules
+- [ ] **Friday 24th Jan 2025**: Collect laptops from ATI Comp (Uli, Renato, Mbz)
+- [ ] Simplify project modules:
   - [ ] Update naming convention (Renato)
   - [ ] Update modules (Renato, Uli, Mbz)
   - [ ] Update class plan (Renato, Uli, Mbz)
 - [ ] Import tasks from previous classes (task sheets; Renato)
-- [ ] Fix HDMI issue .-. (Mbz)
-- [ ] Project Repository 
-  - HINT: Include Forest Projects, supply chain management, and home automation 
-  - (Renato, Uli, Mbz)
+- [ ] Fix HDMI issue (Mbz)
+- [ ] Project Repository:
+  - Include Forest Projects, supply chain management, and home automation
+  - Assigned: Renato, Uli, Mbz
+
 
 
 Just some intial notes.
