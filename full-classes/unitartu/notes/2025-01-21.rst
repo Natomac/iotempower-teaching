@@ -3,10 +3,10 @@ TODO (action items)
 
 - [ ] **Friday 24th Jan 2025**: Collect laptops from ATI Comp (Uli, Renato, Mbz)
 - [ ] Simplify project modules:
-  - [ ] Update naming convention (Renato)
+  - [x] Update naming convention (Renato)
   - [ ] Update modules (Renato, Uli, Mbz)
   - [ ] Update class plan (Renato, Uli, Mbz)
-- [ ] Import tasks from previous classes (task sheets; Renato)
+- [x] Import tasks from previous classes (task sheets; Renato)
 - [ ] Fix HDMI issue (Mbz)
 - [ ] Project Repository:
   - Include Forest Projects, supply chain management, and home automation
@@ -57,7 +57,7 @@ Notes
 
 - breadboarding individually!
 
-
+MASTER CLASS
 First class:
 
 - Hello, welcome - maybe agenda?
@@ -86,34 +86,58 @@ First class:
 
   - Task/hw: describe and results, reflection!
 
-
+MODULE 1 - HARDWARE AND BASIC ELECTRONICS
 Second class:
-
-  - module 1: Hardware
 
     - hardware, breadboarding
 
     - show what's available - the IoT cart
+    - Research about microcontrollers, sensor and actuators
 
-  - blink (as challenge)
+  - blink (as challenge) or LED strip animation (possibly the bomb deact game)
 
-
+MODULE 2 - INFRASTRUCTURE AND GATEWAY SETUP
 Third class:
 
-  - module 2: Infrastructure/Systems
+  - Networking (Restaurant LARP - acting out the network) - maybe have a parallel demo in coding on the screen as they play it out
+
+  - Adafruit IOT videos
+
 
   - project portfolio?
-
-  - infrastructure setup
-
-  - small mqtt and node-red exercises, mqtt client on phones
-
-  - network blink and button (with web requests)
 
 
 Fourth class:
 
-  - module 3: Integration and simulation
+  - IoTempower installation on the laptop (Manjaro or Dietpi with KDE)
+
+  - Gateway setup
+
+  - Installation of openWRT and setting up router
+
+  - Mosquitto on router and/or laptop
+
+  - Small mqtt exercises, mqtt client on phones, on the computer (mosquitto pub messages), and M5sticks
+
+  - Send a message to another team (node-red different MQTT hosts, Wifi on the laptop) 
+
+  - network blink and button (with web requests, websocket or mqtt directly)
+
+MODULE 3 - INTEGRATION AND SIMULATION
+  - IoTknit
+  - Node-red
+  - Simulator in Pyhton
+
+MODULE 4 - IOT SYSTEMS (IoTempower full power)
+  - Node management (cloudCommander or barebones CLI - MidnightCommnader) iot-systems and system.conf file
+  - Adopting a node
+  - OTA deployment
+  - One-line node programming
+  - PlatformIO build folder
+  - Filters
+  - Midway project (small system)
+
+FINAL MODULE - FINAL PROJECT
 
 Crazy ideas:
   - packaged Android app for IoTempower
